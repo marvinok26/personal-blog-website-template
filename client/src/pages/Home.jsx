@@ -14,7 +14,6 @@ import blog8 from '../images/blog-8.png';
 import blog9 from '../images/blog-9.png';
 import blog10 from '../images/blog-10.png';
 import hero from '../images/hero.png';
-import dark from '../images/logo-dark.svg';
 import author from '../images/author.png';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
